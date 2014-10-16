@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bux:home|Door43 (bux)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bux|d43-bux repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bux/archive/master.zip|d43-bux.zip]]
+
+**Recent Changes**
+{{changes>ns = bux}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bux|Ethnologue data]]
+
